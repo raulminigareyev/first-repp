@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width:1440px;
+}
+* {
+    margin: 0px;
+}
+.logo{
+    margin-left: 50px;
+}
+nav{
+    margin-right: 250px;
+}
+.hi{
+    font-size: 30px;
+    margin:100px 0px 0px 150px ;
+}
+p{
+   font-size: 20px; 
+   margin:15px 0px 0px 175px;
+}
+.start{
+    margin:15px 0px 0px 175px;
+    
+}
+.div1{
+    display: inline-block;
+}
+.logotip{
+    margin: 100px 0px 0px 200px;
+    
+}
+h1,h2{
+    margin-left:150px ;
+    margin-top: 40px;
+
+}
+hr{
+    margin-top: 60px;
+}
+h2{
+    font-size: 25px;
+}
+.jo1{
+    margin: 20px 210px 0px 200px;
+}
+.ss{
+    margin:0px 0px 0px 175px;
+}
+.jo2{
+    margin-left: 300px;
+}
+.jo3{
+    margin: 20px 0px 0px 150px;
+}
+.phrase{
+    font-size: 17px;
+    margin-left: 300px;
+}
+.pon{
+    font-size: 14px;
+    margin-left: 950px;
+}
+.Darbi{
+    margin-left: 160px;
+    margin-bottom: 25px;
+}
+.block1{
+    margin-top: 50px;
+}
+.phrase2{
+    margin-left: 34px;
+}
+.mum1{
+    margin-left: 175px;
+    margin-bottom: 15px;
+}
+.kakein{
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+.jotaro1{
+    margin-top: 20px;
+}
+.phrase3{
+    margin-left: 130px;
+}
+.blok{
+    margin-left: 175px;
+}
+.jov2{
+    margin-left: 50px;
+    
+}
+.p2{
+    margin-top:50px ;
+}
+.hv2{
+    margin-top: 50px;
+}
+.table{
+    margin-left: 130px;
+}
+.color1{
+    color: rgb(82, 51, 51);
+}
+a{
+    margin-left: 15px;
+}
+.fon1{
+    position: absolute;
+    z-index: -1;
+    
+}
+.text1{
+    display: flex;
+    align-items: center;
+}
+.jotaro2{
+    margin-left: 110px;
+    margin-bottom: 30px;
+}
